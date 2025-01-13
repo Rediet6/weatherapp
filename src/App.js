@@ -6,11 +6,8 @@ export default function App() {
       <h1>Weather App</h1>
       <footer>
         This project was coded by{" "}
-        <a href="https://github.com/Rediet6" target="_blank">
-          Rediet Kebere
-        </a>{" "}
-        and is
-        <a href="https://github.com/Rediet6/weatherapp" target="_blank">
+        <a href="https://github.com/Rediet6">Rediet Kebere</a> and is
+        <a href="https://github.com/Rediet6/weatherapp">
           {" "}
           open-sourced on GitHub
         </a>
